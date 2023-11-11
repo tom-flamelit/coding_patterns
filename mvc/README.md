@@ -4,7 +4,7 @@
 
 It divides the logic into three internal constructs, notably
 
-![MVC Controller Model](./readme_images/MVC-Process.svg)
+![MVC Controller Model, source: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller#/media/File:MVC-Process.svg](./readme_images/MVC-Process.svg)
 
 1. Model: representations of information
 2. View: presents information to and received information from the user
