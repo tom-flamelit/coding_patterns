@@ -1,2 +1,2 @@
-# example_mvc_python
-Small repository to show how MVC works with Python applications.
+# Flamelit Examples
+Small repository to show well-worked coding examples.

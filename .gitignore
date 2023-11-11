@@ -1,8 +1,16 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+example-mvc/
+node_modules/
+my-counter/
+*.json
+mvc/*.json
+package.json
+package-lock.json
+current-count.json
+mvc/current-count.json
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
